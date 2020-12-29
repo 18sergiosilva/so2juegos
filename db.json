@@ -4,7 +4,7 @@
             "id":1,
             "name":"Among Us",
             "image":"https://i.ibb.co/dtdH7xQ/AmongUs.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 1
@@ -14,7 +14,7 @@
             "id":2,
             "name":"Assassins Creed Valhalla",
             "image":"https://i.ibb.co/x1fs2Gn/Assassins-Creed.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 3
@@ -24,7 +24,7 @@
             "id":3,
             "name":"Ciberpunk",
             "image":"https://i.ibb.co/gt4jVrv/Cyber-Punk.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 2
@@ -34,7 +34,7 @@
             "id":4,
             "name":"Death Stranding",
             "image":"https://i.ibb.co/j3dpgSp/Death-Stranding.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 4
@@ -44,7 +44,7 @@
             "id":5,
             "name":"Fortnite",
             "image":"https://i.ibb.co/vBhN2q2/Fortnite.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 1
@@ -54,7 +54,7 @@
             "id":6,
             "name":"GTA 5",
             "image":"https://i.ibb.co/TWSYyV5/GTA5.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 2
@@ -64,7 +64,7 @@
             "id":7,
             "name":"Rocket League",
             "image":"https://i.ibb.co/hg7yBrz/Rocket-League.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 3
@@ -74,7 +74,7 @@
             "id":8,
             "name":"Star Wars Squadrons",
             "image":"https://i.ibb.co/Sf3fZg0/SWSquadrons.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 4
@@ -84,7 +84,7 @@
             "id":9,
             "name":"Watch Dogs Legion",
             "image":"https://i.ibb.co/WppgV3X/Watch-Dogs.png",
-            "chargeRate": 1,
+            "chargeRate": 0,
             "active": true,
             "availability": [
                 1
